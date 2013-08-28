@@ -1,4 +1,9 @@
 miniKanren-image-processing
 ===========================
 
-mage processing using miniKanren i
+image processing using miniKanren
+
+# Aim
+
+minimum description of image processing algorithm using miniKanren
+
